@@ -51,13 +51,3 @@ else:
 #miercoles
 #jueves
 #
-print("=====RESULTADO DE INTENTO====")
-veces = 3
-limite = 4
-mi_lista_2 = ["Lunes", "Martes","Miercoles", "Jueves", "Viernes"]
-for veces in mi_lista_2:
-     if i !="Lunes":
-        print(f"Feliz{i}!")
-        break
-
-print("Ya se a generado")
